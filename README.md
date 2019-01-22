@@ -14,3 +14,7 @@ back-end:
 - Relational and NoSQL databases (MySQL, MongoDB)
 - Deployed server side to Amazon EC2
 
+Try it at
+http://54.183.181.221/Jupiter/
+username: 1111
+password: 2222
